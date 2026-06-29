@@ -1,0 +1,3194 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Home :: Sri Padmavathi Women's Degree & PG College</title>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<meta name="csrf-name" content="li_token">
+<meta name="csrf-token" content="">
+
+<!-- favicon
+		============================================ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://spwdpgc.edu.in/assets/img/logo/padmavati-icon.png">
+
+<!-- Google Fonts
+		============================================ -->
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800' rel='stylesheet' type='text/css'>
+<!--<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">-->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+
+<!-- Color Swithcer CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/color-switcher.css">
+
+<!-- Fontawsome CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/font-awesome.min.css">
+
+<!-- Metarial Iconic Font CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/material-design-iconic-font.min.css">
+
+<!-- Bootstrap CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/bootstrap.min.css">
+
+<!-- Plugins CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/plugins.css">
+
+<!-- Style CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/frontend_style.css">
+
+<!-- Color CSS
+		============================================ -->
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/color.css">
+
+<!-- Responsive CSS
+		============================================ -->
+<!--        <link rel="stylesheet" href="assets/css/responsive.css">-->
+
+<!-- Modernizr JS
+		============================================ -->
+<script src="https://spwdpgc.edu.in/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/js/owl.carousel.css">
+
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/tkstyle.css">
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/responsive.css">    <link rel="stylesheet" href="https://spwdpgc.edu.in/assets/css/home-style.css">
+    <style>
+        .nivo-caption {
+            /*background: #00000052;*/
+        }
+        .our-dpt img.mooc-img {
+            min-height: 232px;
+            max-height:232px;
+        }
+        .pname{
+            text-align: center;
+            font-size: 23px;
+            font-weight: bold;
+            /* line-height: 30px; */
+            letter-spacing: 2px;
+            margin-top: 20px;
+            margin-bottom: 0px !important;
+        }
+        .message-new {
+            color: white;
+            font-weight: 800;
+            font-size: 17px;
+            margin-right: 14px;
+            margin-left: 14px;
+            line-height: 39px;
+            letter-spacing: 1px;
+
+        }
+
+        .message-new:hover {
+            color: #FFC107;
+        }
+    </style>
+</head>
+
+<body>
+    <!--Main Wrapper Start-->
+    <div class="as-mainwrapper">
+        <!--Bg White Start-->
+        <div class="bg-white">
+
+            <!--Header Area Start-->
+<header class="header-two">
+    <style>
+        .msn-blood {
+            height: 75px;
+            display: block;
+            margin: auto;
+            margin-top: 5px;
+            display: inline-block;
+            margin: 10px 15px;
+        }
+
+        @media screen and (max-width: 1160px) {
+
+            .content.msn {
+                margin-right: 3% !important;
+            }
+        }
+
+        @media screen and (max-width: 960px) {
+            .content.msn {
+                margin-right: 0 !important;
+                float: none !important;
+                max-width: 400px;
+                margin: auto !important;
+                width: 100% !important;
+            }
+        }
+
+        @media screen and (max-width: 782px) {
+            .msn-blood {
+                height: 60px;
+                display: inline-block;
+                margin: auto;
+                margin-top: 5px;
+                vertical-align: middle;
+                margin-left: 20px;
+            }
+
+            .logo.text-center .content {
+                width: 100%;
+                text-align: center;
+                margin: auto !important;
+            }
+
+            .mm {
+                margin-top: 20px !important;
+                margin-left: 0;
+            }
+
+            .eca {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 440px) {
+            .mm {
+                margin-top: 17px !important;
+                margin-left: 5%;
+            }
+        }
+    </style>
+    <div class="header-logo-menu sticker" style="background: #7dc6ff;">
+        <div class="container-fulid">
+            <div class="row">
+                <div class="col-lg-12 col-12">
+                    <div class="mobile-logo" style="display:none;">
+
+                        <a href="javascript:void(0)"><img src="https://spwdpgc.edu.in/assets/img/logo/padmavati-logo-mobile-new1.png" alt="Padmavati University" style="max-width: 100%;"> </a>
+                    </div>
+                    <div class="logo text-center mobilenone" style="padding-top:11px;">
+                        <a href="javascript:void(0)" class="logoicon">
+                            <img src="https://spwdpgc.edu.in/assets/img/logo/padmavati-icon.png" alt="Padmavati University"> 
+                        </a>
+                        <a href="javascript:void(0)" class="logoicon ttdlogo">
+                            <img src="https://spwdpgc.edu.in/assets/img/logo/ttdlogo.png" alt="Padmavati University"  title="tirumala tirupati devasthanam logo"> 
+                        </a>
+                        <a href="javascript:void(0)">
+                            <img src="https://spwdpgc.edu.in/assets/img/logo/new-logo.png" alt="Padmavati University"> 
+                        </a>
+                        
+                        <style>
+                            /* The animation code */
+                            @keyframes mocktests {
+                                0% {
+                                    background-color: #001F3F;
+                                }
+
+                                15% {
+                                    background-color: DeepPink;
+                                }
+
+                                30% {
+                                    background-color: orange;
+                                }
+
+                                55% {
+                                    background-color: #FF4136;
+                                }
+
+                                70% {
+                                    background-color: blue;
+                                }
+
+                                100% {
+                                    background-color: green;
+                                }
+                            }
+
+                            /* The element to apply the animation to */
+                            .mocktest {
+
+                                color: white;
+                                font-size: 13px;
+                                font-weight: bold;
+                                margin-right: 5px;
+
+                            }
+
+                            .mm {
+                                width: 127px;
+                                float: left;
+                                margin-top: 35px;
+                                margin-right: 10px;
+
+                                background-color: #001F3F;
+                                animation-name: mocktests;
+                                animation-duration: 4s;
+                                animation-iteration-count: infinite;
+                            }
+                        </style>
+                        <div class="clearfix"></div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12 col-12 d-none d-lg-block">
+                <div class="mainmenu-area text-center lg-space">
+                    <div class="mainmenu hidden-sm hidden-xs">
+                        <nav>
+
+                            <ul id="nav">
+
+                                <!-- <li class="logo">
+                                    <a href="https://spwdpgc.edu.in/" style="display: none;"><img src="https://spwdpgc.edu.in/assets/img/logo/logo2.png" alt="VEMU">
+                                        <span style="float: right;    font-size: 20px;font-weight: bold;line-height: 1.4;">VEMU INSTITUTE<br>OF TECHNOLOGY</span></a>
+                                </li> -->
+                                <li class="current"><a href="https://spwdpgc.edu.in/">Home</a>
+                                    
+                                </li>
+                                <li><a href="javascript:void(0)">About&nbsp;Us</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/history">About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/vission-mission">Vision & Mission</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/aims-objectives">Aims & objectives</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/college-profile">College Profile</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/code-of-conduct">Code of Conduct</a></li>
+                                        <li><a href="#">Certificates<i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/NAAC-certificate.pdf" target="_blank">NAAC</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/AISHE-Certificate.pdf" target="_blank">AISHE</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/NIRF-FORM.pdf" target="_blank">NIRF</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/ISO-Certificate.pdf" target="_blank">ISO</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/UGC-autonomous-certificate.pdf" target="_blank">UGC Autonomous</a></li>
+                                                <!--<li><a href="https://spwdpgc.edu.in/workshop-conducted">Workshops Conducted</a></li>-->
+                                                <!--<li><a href="https://spwdpgc.edu.in/technical-programs">Technical Programs</a></li>-->
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/graduate-attributes">Graduate Attributes</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/affiliation-recognition">Affiliations &amp; Recognitions</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/successive-principals">Successive Principals</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/state-best-teacher-awardees">State Best Teacher Awardees</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/policy/policy-final-revised.pdf" target="_blank">Policies</a></li>
+                                        <!-- <li><a href="https://spwdpgc.edu.in/sailent_features">Sailent Features</a></li>-->
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0)">Administration</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/organogram">Organogram</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/statuary-bodies">Statuary Bodies</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/non-statuary-bodies">Non-Statuary Bodies</a></li>
+                                        <!--<li><a href="javascript:void(0)">SOP'S</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/office-establishment">Office Establishment</a></li>
+
+                                        <!--<li><a href="https://spwdpgc.edu.in/alumni_member">Alumni Members</a></li>
+                                                        <li><a href="https://spwdpgc.edu.in/alumni_registration">Alumni Registration</a></li>-->
+
+                                    </ul>
+                                </li>
+                                
+                                <li><a href="javascript:void(0)">Autonomous</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/autonomous/ugc-autonomous-certificate.pdf"  target="_blank">UGC Proceedings</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/autonomous/ugc-notification.pdf"  target="_blank">Notification</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/statuary-bodies">Statuary Bodies</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/non-statuary-bodies">Non-Statuary Bodies</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/governing_body">Governing Body</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/academic_council">Academic Council</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/finance_committee">Finance Committee</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/bos">BOS</a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0)">Departments</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="#">Science <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu right-side" style="width: 225px;">
+                                                <li><a href="https://spwdpgc.edu.in/biochemistry-department">Biochemistry</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/biotechnology-department">Biotechnology</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/botany-department">Botany</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/chemistry-department">Chemistry</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/computer-science-department">Computer Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/electronics-department">Electronics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/environmental-science-department">Environmental Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/geography-department">Geography</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/home-science-department">Home Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/mathematics-department">Mathematics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/physics-department">Physics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/psychology-department">Psychology</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/statistics-department">Statistics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/zoology-department">Zoology</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Arts <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu right-side" style="width: 225px;">
+                                                <li><a href="https://spwdpgc.edu.in/economics-department">Economics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/history-department">History</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/political-science-department">Political Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/population-studies-department">Population Studies</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/social-anthropology-department">Social Anthropology</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/social-work-department">Social Work</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/philosophy-and-indian-culture-department">Philosophy & Indian Culture</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/commerce-department">Commerce</a></li>
+                                        <li><a href="#">Languages<i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/english-department">English</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/hindi-department">Hindi</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/sanskrit-department">Sanskrit</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/telugu-department">Telugu</a></li>
+                                                <!--<li><a href="https://spwdpgc.edu.in/workshop-conducted">Workshops Conducted</a></li>-->
+                                                <!--<li><a href="https://spwdpgc.edu.in/technical-programs">Technical Programs</a></li>-->
+                                            </ul>
+                                        </li>
+                                        <!-- <li><a href="https://spwdpgc.edu.in/beyond_campus">Faculty Info</a></li> -->
+
+
+                                        <!--<li><a href="#">Examination Cell<i class="zmdi zmdi-chevron-right"></i></a>
+                                                            <ul class="inside-menu">
+                                                                <li><a href="#">Notifications</a></li>
+                                                                <li><a href="#">Time Tables</a></li>
+                                                                <li><a href="#">Circulars</a></li>
+                                                                <li><a href="#">Results</a></li>
+                                                                <li><a href="#">Exam Downloads</a></li>
+                                                            </ul>
+                                                        </li>-->
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0)">Admissions</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/courses_offered">Programs</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/policy-procedures">Policy & Procedure</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/eligibility-criteria">Eligibility Criteria</a></li>
+                                        <!--<li><a href="javascript:void(0)">prospectus</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/fee-structure">Fee Structure</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/new/SPW-Hand-Book-2023-24.pdf" target="_blank">Hand Book</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/alumni_member">Alumni Members</a></li>
+                                                        <li><a href="https://spwdpgc.edu.in/alumni_registration">Alumni Registration</a></li>-->
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0);">Examinations </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="https://spwdpgc.edu.in/coe" >COE</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/examination-pattern" >Examination Pattern</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/examination-rules">Examination Rules</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/schedules">Schedules</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/examination_fees">Examination Fees</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/results">Results</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/exam-notifications">Notifications</a></li>-->
+
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0)">Clubs & Committees</a>
+                                    <ul class="sub-menu">
+                                        <li><a  href="javascript:void(0);" >Clubs <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu" style="width: 225px;">
+                                                <li><a href="https://spwdpgc.edu.in/yuva-tourism-club">Yuva Tourism Club</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/eco-club">Eco Club</a></li>
+                                            </ul>
+                                        </li>
+                                        <!--<li><a  href="javascript:void(0)" >Associations</a></li>-->
+                                        
+                                        <li><a href="javascript:void(0)">Committee <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu" style="width: 225px;">
+                                                <li><a href="https://spwdpgc.edu.in/academic-audit-committee">Academic Audit Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/admission-committee">Admission Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/discipline-committee">Discipline Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/coll-poll-committee">Coll Poll Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/edx-committee">edX Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/foundation-courses-monitoring-committee" style="line-height: 17px;margin-bottom: 8px;">Foundation Courses Monitoring Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/life-skills-monitoring-committee" style="line-height: 17px;margin-bottom: 8px;">Life Skills Monitoring Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/research-committee">Research Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/sramadanam-committee">Sramadanam Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/library-committee">Library Committee</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                </li>
+
+                                
+
+                                <li><a href="javascript:void(0)">Support Services</a>
+                                    <ul class="sub-menu">
+                                        <li class="d-flex justify-content-between" style="width : 100%">
+                                            <ul>
+                                                <li><a href="https://spwdpgc.edu.in/ncc">NCC</a></li>
+                                                <li><a  href="https://spwdpgc.edu.in/ngo" >NGO</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/nss">NSS</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/women-empowerment-cell">Women Empowerment Cell</a></li>
+                                                <!--<li><a href="javascript:void(0)">Carrier Guidance </a></li>-->
+                                                <li><a href="https://spwdpgc.edu.in/grievance-redressal-cell">Grievance Redressal Cell</a></li>
+                                                <!--<li><a href="javascript:void(0)">Anti Ragging</a></li>-->
+
+                                                <li><a href="https://spwdpgc.edu.in/sports-and-games">Sports & Games</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/red-cross">Red Cross</a></li>
+                                            <!--</ul>
+                                            <ul>-->
+
+                                                <li><a href="https://spwdpgc.edu.in/sc-st-bc-cells">SC/ST/BC Cells</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/student-council">Student Union</a></li>
+                                                <!--<li><a  href="javascript:void(0);" >Student Union <i class="zmdi zmdi-chevron-right"></i></a>
+                                                    <ul class="inside-menu">
+                                                        <li><a href="https://spwdpgc.edu.in/student-council">Student Council</a></li>
+                                                        <li><a href="https://spwdpgc.edu.in/student-council-activity-2023">Activity 2023</a></li>
+                                                    </ul>
+                                                </li>-->
+                                                
+                                                <li><a href="https://spwdpgc.edu.in/endowment-prizes">Endowment Prizes</a></li>
+                                                <!--<li><a href="javascript:void(0)">Best Practices</a></li>-->
+                                                <!--<li><a href="javascript:void(0)">Scholarships</a></li>-->
+                                                <li><a href="https://spwdpgc.edu.in/diet-counselling-cell">Diet Counselling Center</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/psychology-counselling-cell">Psychological Counselling Center</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="javascript:void(0)">Alumni <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu" style="top: -95px;">
+                                                <li><a href="https://spwdpgc.edu.in/alumni" >About</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/alumni#committee">Committee</a></li>
+                                                <li><a href="javascript:void(0)">Activities <i class="zmdi zmdi-chevron-right"></i></a>
+                                                    <ul class="inside-menu">
+                                                    <li><a href="https://spwdpgc.edu.in/alumni-activity-2023">Activity 22-23</a></li>
+                                                    <li><a href="https://spwdpgc.edu.in/alumni-activity-2024">Activity 23-24</a></li>
+                                                        
+                                                    </ul>
+                                                </li>
+                                                <li><a href="https://spwdpgc.edu.in/renowned-alumni">Renowned Alumni</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+
+                                </li>
+
+                                <!-- <li><a href="javascript:void(0);">Alumni </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="https://spwdpgc.edu.in/alumni" >About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/alumni#committee">Committee</a></li>
+                                        <li><a href="javascript:void(0)">Activities <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu">
+                                               <li><a href="https://spwdpgc.edu.in/alumni-activity-2023">Activity 22-23</a></li>
+                                               <li><a href="https://spwdpgc.edu.in/alumni-activity-2024">Activity 23-24</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/renowned-alumni">Renowned Alumni</a></li>
+
+
+                                    </ul>
+                                </li> -->
+
+                                 
+                                <!--<li><a href="javascript:void(0);">NAAC </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="javascript:void(0)" >Cycle-1</a></li>
+                                        <li><a href="#">Cycle-2<i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu left-side">
+                                                <li><a href="javascript:void(0)">IIGA</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/SPWDC-SSR.pdf" target="_blank">SSR</a></li>
+
+                                            </ul>
+                                        </li>
+
+
+                                    </ul>
+                                </li>-->
+
+                                <li><a href="javascript:void(0);">IQAC </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 150px;">
+                                        <li><a href="https://spwdpgc.edu.in/iqac" >About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac#vision">Vision & Mission</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac#objectives">Objectives</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac-composition">Composition</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/department/iqac/AQAR-23-24.pdf" target="_blank">AQAR'S</a></li>
+                                        <li><a href="javascript:void(0)">NAAC <i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu right-side" style="left: 115px; width: 150px;">
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/naac/NAAC-certificate.pdf" target="_blank">NAAC Certificate</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/naac/SPWDC-SSR.pdf" target="_blank">SSR</a></li>
+                                            </ul>
+                                        </li>
+                                        <!--<li><a href="javascript:void(0)">Minutes of The Meetings </a></li>-->
+
+                                    </ul>
+                                </li>
+                                
+
+                                
+
+                                <!--<li><a href="javascript:void(0);">Hostels </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="#">Hostel Profile<i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu left-side">
+                                                <li><a href="javascript:void(0)">Rules & Regulations</a></li>
+                                            </ul>
+                                        </li> 
+                                        <li><a href="javascript:void(0)">Hostel Buildings</a></li>
+                                        <li><a href="javascript:void(0)">Rules & Regulations</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Facilities</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Secretaries</a></li>
+                                        <li><a href="javascript:void(0)">Functions Of Hostel</a></li>
+                                        <li><a href="javascript:void(0)">Secretaries</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Staff</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Duties</a></li>
+                                    </ul>
+                                </li>-->
+
+                                <li><a href="javascript:void(0)">Infrastructure</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/class-rooms">Class Rooms</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/laboratory">Laboratory</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/seminar-hall">Seminar HAll</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/library">Library</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/ict-class-rooms">ICT Class Rooms</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/hostels">Hostels</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/physical-education">Physical Education</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/divyanga-facilities">Divyanga Facilities</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/ro-water-system">Ro Water System</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/canteen">College Canteen</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/security">24/7 Security</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/botanical-garden">Botanical Garden</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/yoga-and-gym">Yoga & Gym</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/museum">Museum</a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li><a href="https://spwdpgc.edu.in/activities">Activities</a></li>
+
+                                <li><a href="javascript:void(0);">News & Gallery </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="https://spwdpgc.edu.in/image-gallery">Image Gallery</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/news-gallery">News Gallery</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/newsletter">News Letter</a></li>
+                                    </ul>
+                                </li>
+
+
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- Mobile Menu Area start -->
+    <div class="mobile-menu-area sticker">
+        <div class="container clearfix">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="mobile-menu">
+                        <nav id="dropdown">
+                            <ul id="nav">
+
+                                <li class="logo">
+                                    <a href="https://spwdpgc.edu.in/" style="display: none;"><img src="https://spwdpgc.edu.in/assets/img/logo/logo2.png" alt="Padmavati University">
+                                </li>
+                                <li class="current"><a href="https://spwdpgc.edu.in/">Home</a></li>
+                                <li><a href="javascript:void(0)">About&nbsp;Us</a>
+                                    <ul class="sub-menu">
+                                    <li><a href="https://spwdpgc.edu.in/history">About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/vission-mission">Vision & Mission</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/aims-objectives">Aims & objectives</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/college-profile">College Profile</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/code-of-conduct">Code of Conduct</a></li>
+                                        <li><a href="javascript:void(0)">Certificates</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/NAAC-certificate.pdf" target="_blank">NAAC</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/AISHE-Certificate.pdf" target="_blank">AISHE</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/NIRF-FORM.pdf" target="_blank">NIRF</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/ISO-Certificate.pdf" target="_blank">ISO</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/certificate/UGC-autonomous-certificate.pdf" target="_blank">UGC Autonomous</a></li>
+                                                <!--<li><a href="https://spwdpgc.edu.in/workshop-conducted">Workshops Conducted</a></li>-->
+                                                <!--<li><a href="https://spwdpgc.edu.in/technical-programs">Technical Programs</a></li>-->
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/graduate-attributes">Graduate Attributes</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/affiliation-recognition">Affiliations &amp; Recognitions</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/successive-principals">Successive Principals</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/state-best-teacher-awardees">State Best Teacher Awardees</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/policy/policy-final-revised.pdf" target="_blank">Policies</a></li>
+                                        <!-- <li><a href="https://spwdpgc.edu.in/sailent_features">Sailent Features</a></li>-->
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0)">Administration</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/organogram">Organogram</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/statuary-bodies">Statuary Bodies</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/non-statuary-bodies">Non-Statuary Bodies</a></li>
+                                        <!--<li><a href="javascript:void(0)">SOP'S</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/office-establishment">Office Establishment</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0)">Autonomous</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/autonomous/ugc-autonomous-certificate.pdf" target="_blank">UGC Proceedings</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/autonomous/ugc-notification.pdf" target="_blank">Notification</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/statuary-bodies">Statuary Bodies</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/non-statuary-bodies">Non-Statuary Bodies</a></li>
+                                        <!--<li><a href="#">Academic Council<i class="zmdi zmdi-chevron-right"></i></a>-->
+                                        <!--    <ul class="inside-menu right-side">-->
+                                        <!--        <li><a href="javascript:void(0)">Governing Body</a></li>-->
+                                        <!--        <li><a href="javascript:void(0)">Examination Cell</a></li>-->
+
+                                        <!--    </ul>-->
+                                        <!--</li>-->
+
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0)">Departments</a>
+                                    <ul class="sub-menu">
+                                    <li><a href="javascript:void(0)">Science</a>
+                                            <ul class="inside-menu right-side" >
+                                                <li><a href="https://spwdpgc.edu.in/biochemistry-department">Biochemistry</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/biotechnology-department">Biotechnology</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/botany-department">Botany</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/chemistry-department">Chemistry</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/computer-science-department">Computer Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/electronics-department">Electronics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/environmental-science-department">Environmental Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/geography-department">Geography</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/home-science-department">Home Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/mathematics-department">Mathematics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/physics-department">Physics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/statistics-department">Statistics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/zoology-department">Zoology</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="javascript:void(0)">Arts</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/economics-department">Economics</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/history-department">History</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/political-science-department">Political Science</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/population-studies-department">Population Studies</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/social-anthropology-department">Social Anthropology</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/social-work-department">Social Work</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/philosophy-and-indian-culture-department">Philosophy & Indian Culture</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/commerce-department">Commerce</a></li>
+                                        <li><a href="javascript:void(0)">Languages</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/english-department">English</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/hindi-department">Hindi</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/sanskrit-department">Sanskrit</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/telugu-department">Telugu</a></li>
+                                            </ul>
+                                        </li>
+                                        <!-- <li><a href="https://spwdpgc.edu.in/beyond_campus">Faculty Info</a></li> -->
+
+
+                                         
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0)">Admissions</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/courses_offered">Programs</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/policy-procedures">Policy & Procedure</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/eligibility_criteria">Eligibility Criteria</a></li>
+                                        <!--<li><a href="javascript:void(0)">prospectus</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/fee-structure">Fee Structure</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/new/SPW-Hand-Book-2023-24.pdf"  target="_blank">Hand Book</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/alumni_member">Alumni Members</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/alumni_registration">Alumni Registration</a></li>-->
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0);">Examinations </a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/examination-pattern" >Examination Pattern</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/examination-rules">Examination Rules</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/examination-results">Results</a></li>
+                                        <!--<li><a href="https://spwdpgc.edu.in/exam-notifications">Notifications</a></li>-->
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0)">Clubs & Committees</a>
+                                    <ul class="sub-menu">
+                                        <li><a  href="javascript:void(0)">Clubs</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/yuva-tourism-club">Yuva Tourism Club</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/eco-club">Eco Club</a></li>
+                                            </ul>
+                                        </li>
+                                        <!--<li><a  href="javascript:void(0)"  >Associations</a></li>-->
+                                        
+                                        <!-- <li><a  href="javascript:void(0)" >Committee</a></li> -->
+                                        <li><a href="javascript:void(0)">Committee</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/academic-audit-committee">Academic Audit Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/admission-committee">Admission Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/discipline-committee">Discipline Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/coll-poll-committee">Coll Poll Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/edx-committee">edX Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/foundation-courses-monitoring-committee">Foundation Courses Monitoring Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/life-skills-monitoring-committee">Life Skills Monitoring Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/research-committee">Research Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/sramadanam-committee">Sramadanam Committee</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/library-committee">Library Committee</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                </li>
+
+                                
+                               
+                                <li><a href="javascript:void(0)">Support Services</a>
+                                    <ul class="sub-menu">
+                                         
+                                        <li><a href="https://spwdpgc.edu.in/ncc">NCC</a></li>
+                                        <li><a  href="https://spwdpgc.edu.in/ngo"  >NGO</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/nss">NSS</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/women-empowerment-cell">Women Empowerment Cell</a></li>
+                                        <!--<li><a href="javascript:void(0)">Carrier Guidance </a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/grievance-redressal-cell">Grievance Redressal Cell</a></li>
+                                        <!--<li><a href="javascript:void(0)">Anti Ragging</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/sports-and-games">Sports & Games</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/red-cross">Red Cross</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/sc-st-bc-cells">SC/ST/BC Cells</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/student-council">Student Union</a></li>
+                                        <!--<li><a  href="javascript:void(0)">Student Union</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/student-council">Student Council</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/student-council-activity-2023">Activity 2023</a></li>
+                                            </ul>
+                                        </li>-->
+                                        <li><a href="https://spwdpgc.edu.in/endowment-prizes">Endowment Prizes</a></li>
+                                        <!--<li><a href="javascript:void(0)">Best Practices</a></li>-->
+                                        <!--<li><a href="javascript:void(0)">Scholarships</a></li>-->
+                                        <li><a href="https://spwdpgc.edu.in/diet-counselling-cell">Diet Counselling Centers</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/psychology-counselling-cell">Psychological Counselling Centers</a></li>
+                                             
+                                    </ul>
+
+
+                                </li>
+
+                                <li><a href="javascript:void(0);">Alumni </a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/alumni" >About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/alumni#committee">Committee</a></li>
+                                        <li><a href="javascript:void(0)">Activities</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/alumni-activity-2023">Activity 22-23</a></li>
+                                               <li><a href="https://spwdpgc.edu.in/alumni-activity-2024">Activity 23-24</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://spwdpgc.edu.in/renowned-alumni">Renowned Alumni</a></li>
+
+
+                                    </ul>
+                                </li>
+                                
+                                <!--<li><a href="javascript:void(0);">NAAC </a>
+                                    <ul class="sub-menu" style="left: -70px; width: 220px;">
+                                        <li><a href="javascript:void(0)" >Cycle-1</a></li>
+                                        <li><a href="#">Cycle-2<i class="zmdi zmdi-chevron-right"></i></a>
+                                            <ul class="inside-menu left-side">
+                                                <li><a href="javascript:void(0)">IIGA</a></li>
+                                                <li><a  href="https://spwdpgc.edu.in/assets/new/SPWDC-SSR.pdf" target="_blank">SSR</a></li>
+
+                                            </ul>
+                                        </li>
+
+
+                                    </ul>
+                                </li>-->
+
+                                <li><a href="javascript:void(0);">IQAC </a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/iqac" >About</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac#vision">Vision & Mission</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac#objectives">Objectives</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/iqac-composition">Composition</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/assets/img/department/iqac/AQAR-23-24.pdf" target="_blank">AQAR'S</a></li>
+                                        <!--<li><a href="javascript:void(0)">Initiatives</a></li>-->
+                                        <!--<li><a href="javascript:void(0)">Minutes of The Meetings </a></li>-->
+                                        <li><a href="javascript:void(0)" >
+                                            NAAC</a>
+                                            <ul class="inside-menu right-side">
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/naac/NAAC-certificate.pdf" target="_blank">NAAC Certificate</a></li>
+                                                <li><a href="https://spwdpgc.edu.in/assets/new/naac/SPWDC-SSR.pdf" target="_blank">SSR</a></li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <!-- <li><a href="javascript:void(0);">Hostel </a>
+                                    <ul class="sub-menu">
+                                        <li><a href="#">Hostel Profile<i class="zmdi zmdi-chevron-right"></i></a>
+                                           <ul class="inside-menu left-side">
+                                               <li><a href="javascript:void(0)">Rules & Regulations</a></li>
+                                           </ul>
+                                        </li>
+                                        <li><a href="javascript:void(0)">Hostel Buildings</a></li>
+                                        <li><a href="javascript:void(0)">Rules & Regulations</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Facilities</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Secretaries</a></li>
+                                        <li><a href="javascript:void(0)">Functions Of Hostel</a></li>
+                                        <li><a href="javascript:void(0)">Secretaries</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Staff</a></li>
+                                        <li><a href="javascript:void(0)">Hostel Duties</a></li>
+                                    </ul>
+                                </li> -->
+
+                                <li><a href="javascript:void(0)">Infrastructure</a>
+                                    <ul class="sub-menu">
+
+                                        <li><a href="https://spwdpgc.edu.in/class-rooms">Class Rooms</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/laboratory">Laboratory</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/seminar-hall">Seminar HAll</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/library">Library</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/ict-class-rooms">ICT Class Rooms</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/hostels">Hostels</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/physical-education">Physical Education</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/divyanga-facilities">Divyanga Facilities</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/ro-water-system">Ro Water System</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/canteen">College Canteen</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/security">24/7 Security</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/botanical-garden">Botanical Garden</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/yoga-and-gym">Yoga & Gym</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/museum">Museum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="javascript:void(0);">News & Gallery </a>
+                                    <ul class="sub-menu">
+                                        <li><a href="https://spwdpgc.edu.in/image-gallery">Image Gallery</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/news-gallery">News Gallery</a></li>
+                                        <li><a href="https://spwdpgc.edu.in/newsletter">News Letter</a></li>
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Mobile Menu Area end -->
+</header>
+<!--End of Header Area-->   
+
+            <!--Slider Area Start-->
+            <div class="slider-area">
+
+                <div class="preview-2">
+                    <div id="nivoslider" class="slides">
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner1.jpg" alt="" title="#slider-1-caption1" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner2.jpg" alt="" title="#slider-1-caption2" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner3.jpg" alt="" title="#slider-1-caption3" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner4.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner_psychology1.jpg" alt="" title="#slider-1-caption4" />
+                       
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner5.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner6.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner7.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner8.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner9.jpg" alt="" title="#slider-1-caption4" />
+                        <img src="https://spwdpgc.edu.in/assets/img/banner/banner10.jpg" alt="" title="#slider-1-caption4" />
+                        <!-- <img src="https://spwdpgc.edu.in/assets/img/banner/1.jpg" alt=""
+                            title="#slider-1-caption1" /> -->
+
+
+                    </div>
+                    <!-- <div class="code-vemu" style="z-index:6;">
+                        <img src="https://spwdpgc.edu.in/assets/img/code.png" alt="VEMU" class="vemu-code-img" />
+                    </div> -->
+                    <!-- <div class="aaa-logos">
+                        <a href="#" class="home-aa-logo nba">
+                            <span>NAAC</span>
+                            <img src="https://spwdpgc.edu.in/assets/img/new/nacc_img.png" class="naa-logo nba" alt="naac" />
+
+                        </a>
+
+
+                        <a href="#" class="home-aa-logo">
+                            <span>ISO</span>
+                            <img src="https://spwdpgc.edu.in/assets/img/new/iso.png" class="naa-logo" alt="naac" />
+
+                        </a>
+
+                    </div> -->
+                    <!-- <div id="slider-1-caption1" class="nivo-html-caption nivo-caption">
+                        <div class="banner-content slider-1">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="text-content-wrapper">
+                                            <div class="text-content">
+                                                <h1 class="title1 wow fadeInUp" data-wow-duration="2000ms" data-wow-delay="0s" style="color:#fff;">Sri Padmavathi <br>Women's Degree & PG College</h1>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="slider-1-caption2" class="nivo-html-caption nivo-caption">
+                        <div class="banner-content slider-2">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="text-content-wrapper">
+                                            <div class="text-content slide-2">
+                                                <h1 class="title1 wow rotateInDownLeft" data-wow-duration="1000ms" data-wow-delay="0s" style="color:#fff;">Sri Padmavathi <br>Women's Degree & PG College</h1>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="slider-1-caption3" class="nivo-html-caption nivo-caption">
+                        <div class="banner-content slider-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="text-content-wrapper">
+                                            <div class="text-content slide-2">
+                                                <h1 class="title1 wow rotateInDownLeft" data-wow-duration="1000ms" data-wow-delay="0s" style="color:#fff;">Sri Padmavathi <br>Women's Degree & PG College</h1>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="slider-1-caption4" class="nivo-html-caption nivo-caption">
+                        <div class="banner-content slider-4">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="text-content-wrapper">
+                                            <div class="text-content slide-2">
+                                                <h1 class="title1 wow rotateInDownLeft" data-wow-duration="1000ms" data-wow-delay="0s" style="color:#fff;">Sri Padmavathi <br>Women's Degree & PG College</h1>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+
+
+                </div>
+            </div>
+
+            <div class="bnews">
+                <h3>
+
+                    <font style="vertical-align: inherit;">Updates</font>
+
+                </h3>
+                <marquee class="GeneratedMarquee" direction="left" scrollamount="5" behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()">
+                    <!--                         <span><a href=""></a></span>
+                         -->
+                                    <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/13_03_2026_1128963963.pdf" target="_blank">
+                            1 Semester End Supplementary Examinations Marks Sheets Feb 2026                             </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/22_01_2026_2072442985.pdf" target="_blank">
+                            I & 4 Semester Mid Examinations Time Table                             </a>
+                                       </span>
+                           <span>
+                                           <a href="javascript:void(0)" target="_blank">
+                            Dfggggs                            </a>
+                                       </span>
+                           <span>
+                                       <a href="javascript:void(0)" target="_blank">
+                            Dfggggs'                            </a>
+                                       </span>
+                           <span>
+                                           <a href="javascript:void(0)" target="_blank">
+                            Dfggggs'                            </a>
+                                       </span>
+                           <span>
+                                           <a href="javascript:void(0)" target="_blank">
+                            Dfggggs                            </a>
+                                       </span>
+                           <span>
+                                       <a href="20_01_2026_1677990850.pdf" target="_blank">
+                            Xzcvds                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/07_01_2026_1862301003.pdf" target="_blank">
+                            I Year I Semeste End Examination Fee Notificaton 2025-2026                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/07_01_2026_633970858.pdf" target="_blank">
+                            I Year I & II Semester Academic Schedule 2025-2026                             </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/05_01_2026_784242670.pdf" target="_blank">
+                            II YEAR III SEMESTER REVALUATION RESULTS NOVEMBER 2025 RELEASED                             </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/11_12_2025_2105339566.pdf" target="_blank">
+                            I Year I Semester I Mid Examination Time Table - December 2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/02_12_2025_2108097473.pdf" target="_blank">
+                            II Year III Semester End Examination November 2025 Results Released On 01-12-2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/24_10_2025_1991844206.pdf" target="_blank">
+                            2 YEAR 3 SEMESTER END EXAMINATION TIME TABLE NOV 2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/16_10_2025_1149153983.pdf" target="_blank">
+                            3 Semester End Examination Notification October - 2025-2026                             </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/22_08_2025_1058950495.pdf" target="_blank">
+                            Result Of Revaluation,  Personal Identification And Retotaling - II Semester End Examinations April  May, 2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/04_08_2025_701415259.pdf" target="_blank">
+                            III Semester  I Mid Sem Examination Aug 2025-2026                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/25_07_2025_1522447957.pdf" target="_blank">
+                            2 Year 3 & 4 Semester Academic Schedule 2025-2026                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/05_07_2025_2081900377.pdf" target="_blank">
+                            II Semester End Examination April / May - 2025, Revaluation Notification - Last Date For Submission Of Revaluation Application Is Extended To 11.07.2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/16_06_2025_965553892.pdf" target="_blank">
+                            II Semester End Examination April / May 2025, Revaluation Notification                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/26_05_2025_1330700037.pdf" target="_blank">
+                            I Year II Semester End Examination April / May 2025 Results Released On 26-05-2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/23_04_2025_760951052.pdf" target="_blank">
+                            First Year Second Semester End Examination Time Table: April / May 2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/26_03_2025_1785789875.pdf" target="_blank">
+                            I Year I Semester End Examinations Revaluation Results 2024                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/22_03_2025_424989800.pdf" target="_blank">
+                            II Semester Academic Schedule- 2024-2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/20_03_2025_1057443052.pdf" target="_blank">
+                            First Year-Second Semester End Examination - April/May, 2025, Fee Notification                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/27_02_2025_19302879.pdf" target="_blank">
+                            II & IV Semester I - Mid Sem Examination Schedule 2024-25                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/07_02_2025_2104108588.pdf" target="_blank">
+                            I Semester End Examination December-2024, Revaluation Notification - Last Date For Submission Of Revaluation Application Is Extended To 12.02.2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/31_01_2025_8851828.pdf" target="_blank">
+                            Academic Schedule - 2024-2025 I Year UG Honors-B.A/B.Com/B.Sc                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/29_01_2025_1762779641.pdf" target="_blank">
+                            I Year I Semester End Examination December 2024 Results Released On 20-01-2025                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/29_01_2025_298040211.pdf" target="_blank">
+                            I Semester End Examination December-2024, Revaluation Notification                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/17_12_2024_1839300226.pdf" target="_blank">
+                            Sattava Placements                            </a>
+                                       </span>
+                           <span>
+                                           <a href="https://spwdpgc.edu.in/uploads/news_events/03_12_2024_2065266581.pdf" target="_blank">
+                            Examination Timetable                             </a>
+                                       </span>
+                                       <!--<span><a href="#">Placement drives in the month of November-2024; 1. Amadeus Tech (08-11-2024), 2. Zoho Technologies (10-11-2024), 3. Accenture (18-11-2024 onwards) </a></span>-->
+                        <!--<span><a href="#">Admission Form for Degree Seats in B.Sc.</a></span>-->
+                </marquee>
+            </div>
+            <!-- marquee ends -->
+            <!--About Area Start-->
+            <div class="about-area"  >
+                <div class="about layer">
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8">
+                                <div class="about-container about-txt" style="margin-left:0px;" >
+                                    <h3 style="margin-bottom: 50px;">Vision & Mission</h3>
+                                    <!--<p><span style="font-size: 25px;font-weight: 600;color: #FFC107;">VEMU</span> Institute of Technology is one of the well known and finest technical institutions in Chittoor District, A.P. Beginning its quality inputs in 2008, it has attained ISO 2015:9001 certification for quality management within a short span of time. It is located on Tirupati - Chittoor highway on a beautiful 16 acre campus. A diverse, talented community united by a passion for learning and quest for more, VEMU challenges its students to make a difference on its campus, in the region, and in the companies where ever they join. With unmatched results in every sphere of Education, its commitment to be the best has grown to transform its departments into centres of Excellence.</p>-->
+                                    <!--<a class="button-default" href="#">Know More</a>-->
+                                    <br>
+                                    <h4>Our Vision :</h4>
+                                    <p><i class="fa fa-hand-o-right" aria-hidden="true"></i> To dedicate SPW Degree & PG College to the ideal of making better women of its students by imparting good instruction to achieve academic excellence.</p><br>
+
+                                    <h4>Our Mission :</h4>
+                                    <p><i class="fa fa-hand-o-right" aria-hidden="true"></i> To endeavor to educate as many as it can by providing them all opportunities to earn their way in the college and make them a party in nation building.</p>
+
+                                    <p><i class="fa fa-hand-o-right" aria-hidden="true"></i> To present both enlightening and stimulating educational experience, which will furnish that foundation, upon which a life of wisdom and service can be well and firmly placed.</p>
+
+                                    <p><i class="fa fa-hand-o-right" aria-hidden="true"></i> To inculcate spiritual and moral values among the girl students and make them responsible future citizens.</p>
+
+                                    <p style="margin-bottom: 40px;"><i class="fa fa-hand-o-right" aria-hidden="true"></i> To extend the bounds of knowledge and create a broad minded vision of life through multi-disciplinary curriculum and mould them as wholesome personalities.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                    <img src="https://spwdpgc.edu.in/assets/img/new/vice-chancellor.png" 
+                                    class="img-responsive my-chairman" alt="Chairman" style=" margin-top: 20px;    border-radius: 50%;
+                                    filter: drop-shadow(2px 3px 6px);border: 3px solid #fff;outline: none; max-width:350px;" /><br>
+                                    <p class="pname" style="text-align:center;">Principal</p>
+                                
+                                <div class="d-flex justify-content-end ">
+                                    
+                                
+                                
+                                    <a class="message" href="javascript:void(0);" style="text-align:center;"  data-toggle="modal" data-target="#principalPopup">
+                                    <!-- <i class="fa fa-hand-o-right" aria-hidden="true"></i> -->
+                                    <i class="fa fa-comments-o" aria-hidden="true"></i> Message</a>
+                                                                            <a class=" message-new " href="https://spwdpgc.edu.in/uploads/profiles/principal mam resume for website.pdf" target="_blank"><i class="fa fa-user" aria-hidden="true"></i> Profile</a>
+                                                                    </div>
+                                     
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End of About Area-->
+
+            <!-- Center of Excellance -->
+            <div class="course-area section-padding bg-white" style=" padding-bottom: 95px;background-color: #e7e7e7 !important;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-title-wrapper" style=" margin-bottom: 20px;">
+                                <div class="section-title">
+                                    <h3>Our Departments</h3>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--  Owl carausol -->
+                    <div class="row center-excell" style=" margin-top: 35px;margin-bottom: -40px;">
+
+                        <div class="centers our-dpt">
+                             
+                             <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/biochemistry-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/bio-chemistry-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/biochemistry-department" target="_blank">Biochemistry</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/biotechnology-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/biotechnology/biotechnology-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/biotechnology-department" target="_blank">Biotechnology</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/botany-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/botany/botany-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/botany-department" target="_blank">Botany</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/chemistry-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/chemistry-new.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/chemistry-department" target="_blank">Chemistry</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                            
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/commerce-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/commerce/commerce-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/commerce-department" target="_blank">Commerce</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/computer-science-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/computer-science/computer-science-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/computer-science-department" target="_blank">Computer Science</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/economics-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/economics/economics-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/economics-department" target="_blank">Economics</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/biochemistry-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/electronics-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/electronics-department" target="_blank">Electronics</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/english-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/english/english-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/english-department" target="_blank">English</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/environmental-science-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/environmental-science-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/environmental-science-department" target="_blank">Environmental Science</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/geography-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/geography-department1.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/geography-department" target="_blank">Geography</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/hindi-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/hindi/hindi-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/hindi-department" target="_blank">Hindi</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/history-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/history/history-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/history-department" target="_blank">History</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/home-science-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/home-science-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/home-science-department">Home Science</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/mathematics-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/mathematics-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/mathematics-department">Mathematics</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/philosophy-and-indian-culture-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/philosophy-indian-culture/culture-main-banner.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text" style="padding: 12px;">
+                                        <h4><a href="https://spwdpgc.edu.in/philosophy-and-indian-culture-department">Philosophy & Indian Culture</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/physics-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/physics/physics-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/physics-department" target="_blank">Physics</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/political-science-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/political-science/political-science-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/political-science-department" target="_blank">Political Science</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/population-studies-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/population-studies/population-studies-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/population-studies-department" target="_blank">Population Studies</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/psychology-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/psychology-department/psychology-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/psychology-department" target="_blank">Psychology</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/sanskrit-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/sanskrit/sanskrit-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/sanskrit-department" target="_blank">Sanskrit</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/social-anthropology-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/social-anthropology/social-anthropology-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/social-anthropology-department" target="_blank">Social Anthropology</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/social-work-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/social-work/social-work-department.png" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/social-work-department" target="_blank">Social Work</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/statistics-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/statistics/statistics-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/statistics-department" target="_blank">Statistics</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/telugu-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/telugu/telugu-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/telugu-department" target="_blank">Telugu</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <div class="single-product-item">
+                                    <div class="single-product-image">
+                                        <a href="https://spwdpgc.edu.in/zoology-department" target="_blank">
+                                            <img src="https://spwdpgc.edu.in/assets/img/department/zoology/zoology-department.jpg" class="mooc-img" alt=""></a>
+                                    </div>
+                                    <div class="single-product-text">
+                                        <h4><a href="https://spwdpgc.edu.in/zoology-department" target="_blank">Zoology</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Center of Excellance ends -->
+            <!--Course Area Start-->
+            <div class="course-area section-padding bg-white" style=" padding-bottom: 95px; display:none;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-title-wrapper" style=" margin-bottom: 20px;">
+                                <div class="section-title">
+                                    <h3>OUR EXCLUSIVE</h3>
+                                    <p>Our Events, Media & Achievements</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--  Owl carausol -->
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="section-title owl-title">
+                                <h3>OUR EVENTS</h3>
+                                <p></p>
+                            </div>
+                            <div class="owl-events owl-dots">
+                                                                    <div class="item">
+                                        <div class="single-item">
+                                            <div class="single-item-image overlay-effect"> 
+                                                <a href="uploads/events/" class="elem"> 
+                                                    <img src="https://spwdpgc.edu.in/uploads/events/" title=""> </a> </div>
+                                        </div>
+
+                                    </div> 
+                            </div>
+                            <div class="button-bottom">
+                                <a href="https://spwdpgc.edu.in/events-gallery" class="button-default" style=" padding: 5px 10px;font-size: 13px;">View More</a>
+                            </div>
+                        </div>
+                        <!--  Owl carausol ends -->
+
+                        <!--  Owl carausol -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="section-title owl-title">
+                                <h3>MEDIA NEWS</h3>
+                                <p></p>
+                            </div>
+                            <div class="owl-news owl-dots">
+                                                                    <div class="item">
+                                        <div class="single-item">
+                                            <div class="single-item-image overlay-effect">
+                                                <a href="https://spwdpgc.edu.in/uploads/media/" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/uploads/media/" title=""></a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                            <div class="button-bottom">
+                                <a href="https://spwdpgc.edu.in/media-gallery" class="button-default" style=" padding: 5px 10px;font-size: 13px;">View More</a>
+                            </div>
+                        </div>
+                        <!--  Owl carausol ends -->
+
+                        <!-- Owl courses -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="section-title owl-title">
+                                <h3>Our Achievements</h3>
+                                <p></p>
+                            </div>
+                            <div class="owl-courses owl-dots">
+                                                                    <div class="item">
+                                        <div class="single-item">
+                                            <div class="single-item-image overlay-effect">
+                                                <a href="https://spwdpgc.edu.in/uploads/achievements/" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/uploads/achievements/" title=""></a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                                            </div>
+                            <div class="button-bottom">
+                                <a href="https://spwdpgc.edu.in/achievements-gallery" class="button-default" style=" padding: 5px 10px;font-size: 13px;">View More</a>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <!-- Owl courses ends -->
+                    </div>
+                </div>
+            </div>
+            <!--End of Course Area-->
+            <!--Fun Factor Area Start-->
+            <!--<div class="fun-factor-area" style="background:url('https://spwdpgc.edu.in/assets/img/banner/2.jpg') no-repeat;background-size:cover;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-title-wrapper white">
+                                <div class="section-title">
+                                    <h3>OUR STATISTICS</h3>
+                                    <p>Following are our statistics</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                            <div class="single-fun-factor">
+                                <h4>Teachers</h4>
+                                <h2><span class="counter">160</span>+</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                            <div class="single-fun-factor">
+                                <h4>Students</h4>
+                                <h2><span class="counter">3200</span>+</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                            <div class="single-fun-factor">
+                                <h4>Departments</h4>
+                                <h2><span class="counter">7</span>+</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                            <div class="single-fun-factor">
+                                <h4 style="margin-top: -30px;">Placements<br>Companies</h4>
+                                <h2><span class="counter">30</span>+</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+            <!--End of Fun Factor Area-->
+            <!--Latest News Area Start-->
+            <div class="latest-area section-padding bg-white" style="display:none;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-title-wrapper">
+                                <div class="section-title">
+                                    <h3>Our Courses</h3>
+                                    <p>Following are our courses</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-ece"><img src="https://spwdpgc.edu.in/assets/img/department/ece.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-ece">ECE</a></h3>
+                                    <div class="single-item-comment-view">
+                                        
+                                    </div>
+                                    <p>
+                                        The department offers undergraduate programme in Electronics and Communication
+                                        Engineering
+                                        and Post Graduate programme with Specializations... </p>
+                                    <a href="https://spwdpgc.edu.in/course-details-ece" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-eee"><img src="https://spwdpgc.edu.in/assets/img/department/eee.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-eee">EEE</a></h3>
+                                    <div class="single-item-comment-view">
+                                         
+                                    </div>
+                                    <p>The Department of EEE offers B. Tech. in Electrical & Electronics Engineering.
+                                        The program
+                                        provides excellent technical knowledge in the emerging ... </p>
+                                    <a href="https://spwdpgc.edu.in/course-details-eee" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-cse"><img src="https://spwdpgc.edu.in/assets/img/department/mooc-course.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-cse">CSE</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!--  <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>The department offers both Under Graduate programme – B Tech in Computer Science
+                                        &
+                                        Engineering and Post Graduate programs ...</p>
+                                    <a href="https://spwdpgc.edu.in/course-details-cse" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6  col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-mech"><img src="https://spwdpgc.edu.in/assets/img/department/mech.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-mech">MECH</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!--   <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>The department offers B. Tech. in Mechanical Engineering, and M. Tech in Machine
+                                        Design. The
+                                        department has highly qualified faculty members... </p>
+                                    <a href="https://spwdpgc.edu.in/course-details-mech" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-civil"><img src="https://spwdpgc.edu.in/assets/img/department/civil.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-civil">CIVIL</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!-- <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>Guiding the students with the best facilities, resources and opportunities, the
+                                        Department of
+                                        Civil Engineering has been fruitful in developing the outlook...</p>
+                                    <a href="https://spwdpgc.edu.in/course-details-civil" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-hs"><img src="https://spwdpgc.edu.in/assets/img/department/humanity.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-hs">H & S</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!-- <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>Guiding the students with the best facilities, resources and opportunities, the
+                                        Department of
+                                        Civil Engineering has been fruitful in developing the outlook ... </p>
+                                    <a href="https://spwdpgc.edu.in/course-details-hs" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="https://spwdpgc.edu.in/course-details-mba"><img src="https://spwdpgc.edu.in/assets/img/department/mba.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="https://spwdpgc.edu.in/course-details-mba">MBA</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!-- <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>The Department of Humanities and Basic Sciences at VEMU has grown in strength
+                                        over the years
+                                        in terms of infrastructure including laboratories ...</p>
+                                    <a href="https://spwdpgc.edu.in/course-details-mba" class="button-default">Know
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="single-latest-item">
+                                <div class="single-latest-image">
+                                    <a href="#"><img src="https://spwdpgc.edu.in/assets/img/department/mooc-course1.jpg" alt=""></a>
+                                </div>
+                                <div class="single-latest-text">
+                                    <h3><a href="#">MOOC COURSES</a></h3>
+                                    <div class="single-item-comment-view">
+                                        <!-- <span><i class="zmdi zmdi-calendar-check"></i>25 jun 2050</span> -->
+                                        <!--<span><i class="zmdi zmdi-eye"></i>59</span>
+                                        <span><i class="zmdi zmdi-comments"></i>19</span>-->
+                                    </div>
+                                    <p>Online Courses are available for learning. <br><br><br><br></p>
+                                    <a href="mooc_courses" class="button-default">Know More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--End of Latest News Area-->
+            <!--About Scholarships Start-->
+            <div class="about-area scholr" style="    margin-top: 0; ">
+                <div class="about layer" style="padding-bottom: 4%;background: #011224e6;">
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12">
+                                <div class="about-container">
+                                    <h3>College Profile <i class="fa fa-graduation-cap" aria-hidden="true"></i></h3>
+
+                                    <p>The college, women’s institution (est.1952) under Tirumala Tirupati Devasthanams, Tirupati under Act 30 of the year 1937. The College is affiliated to Sri Venkateswara University, Tirupati (u/s State Universities Act) is also included under section 2(f) & 12 (B) of the UGC Act 1956. The location of institution is in L S Nagar, Tirupati Urban. The college inaugurated on 11-08-1952 has over these years emerged as premier women’s institution in Andhra Pradesh with 85 faculty members offering instruction in twenty five subjects of study to 2917 students. The main attractions of the college are hostel facility for students who come from far of places.</p>
+
+                                    <p>Tirumala Tirupati Devasthanams is liberal in providing the boarding and lodging facilities for the girl students free of cost for all the five years (3 years UG and 2 years PG) of stay in the college. The college campus holds 54 spacious classrooms, 20 equipped laboratories for all BA/BSc/ B com. Teaching aids like LCD, Laptops are used apart from traditional blackboard teaching. College and library have sufficient ICT facilities to access internet to browse, upload or download any information. A sense of Patriotism and service mind is inculcated by the college NCC and NSS wings.</p>
+
+                                    <!--<p>The NCC is attached to 5 (A) Girls Battalion of Andhra Pradesh and students attended all the training camps and trenching activities conducted by the NCC. Intermittently they get selected to represent in the Republic Day Parade at New Delhi. The NSS wing is also very active in procuring student attention and attracts them towards taking part in all Nation Service Scheme activities. The college has been aspiring for the overall development of the students and making enough efforts to inculcate societal values with employability skills.</p>-->
+                                </div>
+                            </div>
+                            <!--<div class="col-lg-4 col-md-4">
+                            <a class="message" href="about.html"><img src="https://spwdpgc.edu.in/assets/img/charman.png" class="img-responsive my-chairman" alt="Chairman"  style=" margin-bottom: 20px;"/><br>
+                            Chairman's Message</a>
+                        </div>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End of About Area-->
+            <!--Online Gallery   Start-->
+            <div class="product-area section-bottom-padding bg-white" style=" padding-top: 4%;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-title-wrapper">
+                                <div class="section-title">
+                                    <h3>Our Gallery</h3>
+                                    <!-- <p> Image and Video gallery</p> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <center>
+                                <h3 style="margin-bottom: 25px;color: #2d3e50;font-size: 23px;">Image Gallery</h3>
+                            </center>
+                            <div class="row">
+                                <!--                                     <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/uploads/gallery/" class="elem"><img src="https://spwdpgc.edu.in/uploads/gallery/
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: gallery</p>
+<p>Filename: views/home.php</p>
+<p>Line Number: 944</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/application/views/home.php<br />
+			Line: 944<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/application/controllers/Welcome.php<br />
+			Line: 38<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property 'image_file' of non-object</p>
+<p>Filename: views/home.php</p>
+<p>Line Number: 944</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/application/views/home.php<br />
+			Line: 944<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/application/controllers/Welcome.php<br />
+			Line: 38<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /mnt/petro_v1/PHP/spwdpgc.edu.in/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>" alt=""></a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                 -->
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner1.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner1.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner2.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner2.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner3a.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner3a.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                
+
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner8.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner8.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner9.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner9.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-product-item">
+                                            <div class="single-product-image">
+                                                <a href="https://spwdpgc.edu.in/assets/img/banner/banner10.jpg" class="elem">
+                                                    <img src="https://spwdpgc.edu.in/assets/img/banner/banner10.jpg" alt="">
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-12 col-sm-12 text-center">
+                                <a href="image-gallery" class="button-default button-large" style="margin-top: 0;">View
+                                    Gallery <i class="zmdi zmdi-chevron-right"></i></a>
+                            </div>
+                        </div>
+
+                        <!-- <div class="col-lg-6 col-md-6">
+
+                            <center>
+                                <h3 style="margin-bottom: 25px;color: #2d3e50;font-size: 23px;">Video Gallery</h3>
+                            </center>
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12">
+                                    <iframe src="https://www.youtube.com/embed/i7uzDlpIA4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="    width: 100%;height: 250px;margin-bottom: 25px;"></iframe>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="single-product-item">
+                                        <div class="single-product-image" style="padding: 5px;">
+                                            <a href="mooc_courses"><img src="https://spwdpgc.edu.in/assets/img/vemuitmooc.jpg" alt="" style="max-width: 100%;"></a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="single-product-item">
+                                        <div class="single-product-image" style="padding: 5px;">
+                                            <a href="https://spwdpgc.edu.in/virtual-tour"><img src="https://spwdpgc.edu.in/assets/img/virtualtour.png" alt="" style="max-width: 100%;"></a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <!--End of Gallery Area-->
+            <!-- Your Content Ends Here -->
+
+            <!--Newsletter Area Start-->
+<style>
+    ul.account-dropdown.msn {
+        display: none;
+        background-color: #23303e;
+        padding: 0 15px;
+        transition: 0.5s all;
+
+    }
+
+    .content:hover ul.account-dropdown {
+        display: block;
+        transition: 0.5s all;
+    }
+
+    .social-icons a i.zmdi {
+        margin-top: 5px;
+    }
+
+    center.msn-counter:hover {
+        border-radius: 30px 0px 30px 0px !important;
+        transition: 0.5s all !important;
+        border-color: #FF9800 !important;
+    }
+
+    .single-footer-widget>h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+        color: white !important;
+    }
+
+    .breadcrumb-banner-area {
+        background-size: cover !important;
+        /* background-position: center center !important; */
+        background-position: bottom center !important;
+    }
+
+    tr.thead {
+        background: #3498db;
+    }
+
+    tr.thead>td {
+        color: #fff;
+    }
+
+    tr.thead>td>p>strong {
+        color: #fff;
+        font-weight: 300;
+    }
+
+    div#Activities1 div#myTabContent {
+        border-left: none;
+    }
+
+    div#Activities1 a.nav-link {
+        background-color: #e6e6e6;
+        margin-right: 10px;
+    }
+
+    div#Activities1 a.nav-link.active {
+        background-color: #007bff;
+        margin-right: 10px;
+    }
+
+    ul.nav.nav-pills.flex-column a.nav-link {
+        background-color: #e6e6e6;
+    }
+
+    ul.nav.nav-pills.flex-column a.nav-link.active {
+        background-color: #007bff;
+    }
+    /* logo scroll start */
+    img.logos-img {
+        /* height: 100px !important;
+        width: auto !important; */
+    }
+    img.logos-img {
+    width: auto !important;
+}
+    .logoscroll {
+  width: 100%;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  background: #7dc6ff;
+  padding: 20px 0;
+}
+
+.logo-track {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: max-content;
+  animation: scroll-left 50s linear infinite;
+}
+
+.logo-track img {
+  height: 100px;
+  margin: 0 20px;
+  flex-shrink: 0;
+}
+
+/* Keyframes for infinite scrolling */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(50%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+  
+}
+
+ /* logo scroll ends */
+</style>
+<div class="logoscroll ">
+<div class="logo-track" id="logoTrack">
+    <!-- <marquee class="logoscroll" direction="left" scrollamount="5" behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()"> -->
+                        
+                    
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/NSS.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/SCOUTS.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/swayam.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/nirf.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/UGC.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/IIC.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/vidya-lakshmi.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/nptel.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/ncc.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/swayam-prabha.png" class="logos-img" alt="">
+        </div>
+
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/cce.png" class="logos-img" alt="">
+        </div>
+
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/aishe.png" class="logos-img" alt="">
+        </div>
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/mhrd.png" class="logos-img" alt="">
+        </div>
+
+
+
+        <div class="item">
+            <img src="https://spwdpgc.edu.in/assets/img/emblums/moeic.png" class="logos-img" alt="">
+        </div>
+    <!-- </marquee> -->
+</div>
+</div>
+<script>
+// window.onload = function() {
+//   const track = document.getElementById('logoTrack');
+  
+//   // Duplicate the logos for infinite loop effect
+//   const trackWidth = track.scrollWidth;
+//   const clone = track.innerHTML; // Grab current logos
+
+//   // Append the cloned logos into the track
+//   track.innerHTML += clone;
+
+//   // Add the scrolling class after content is duplicated
+//   track.classList.add('scrolling');
+// };
+</script>
+<!-- logoscroll ends  
+<div class="newsletter-area" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-5">
+                <div class="newsletter-content">
+                    <h3>SUBSCRIBE</h3>
+                    <h2>TO OUR NEWS</h2>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-7">
+                <div class="newsletter-form angle">
+                    <form method="post" action="https://spwdpgc.edu.in/welcome/save_email_subscription" class="mc-form footer-newsletter fix">
+                        <input type="hidden" name="form_type" value="enq_form292026062026">
+                        <div class="subscribe-form">
+                            <input type="email" name="subscriber_email" placeholder="Enter your email address...">
+                            <button type="submit">SUBSCRIBE</button>
+                        </div>
+                    </form>
+                    <!-- mailchimp-alerts Start  
+                    <div class="mailchimp-alerts text-centre fix pull-right">
+                        <div class="mailchimp-submitting"></div> 
+                        <div class="mailchimp-success"></div> 
+                        <div class="mailchimp-error"></div> 
+                    </div>
+                    <!-- mailchimp-alerts end 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End of Newsletter Area-->
+<!--Footer Widget Area Start-->
+<div class="footer-widget-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-footer-widget">
+                    <div class="footer-logo">
+                        <a href="https://spwdpgc.edu.in/"><img src="https://spwdpgc.edu.in/assets/img/logo/footer-new.png" alt=""></a>
+                    </div>
+                    <p>Sri Padmavathi Women’s Degree and PG College, Tirupati was established by the Tirumala Tirupati Devastanams in 1952 to serve the educational needs of women students of Tirupati and its surrounding areas. It started functioning from 2nd July 1952 as a second grade college  under affiliation to Madras University. </p>
+                    <!-- <a href="tel:08772284588"><i class="fa fa-phone"></i>+0877 - 2284588</a>
+                    <a href="mailto:info@spmvv.ac.in"><span><i class="fa fa-envelope"></i>info@spmvv.ac.in</span></a>
+                    <a href="mailto:ttdspwdc@gmail.com"><span><i class="fa fa-envelope"></i>ttdspwdc@gmail.com</span></a>
+                    <span><i class="fa fa-map-marker" style="width: 26px;"></i> Padmavati Nagar, Tirupati,<br><span style=" margin-left: 30px;">Tirupati District, <br></span><span style="    margin-left: 30px;">Andhra Pradesh-517502.</span> </span>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/" target="_blank"><i class="zmdi zmdi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/" target="_blank"><i class="zmdi zmdi-linkedin"></i></a>
+                        <a href="#"><i class="zmdi zmdi-google-plus"></i></a>
+                        <a href="#"><i class="zmdi zmdi-pinterest"></i></a>
+                        <a href="#"><i class="zmdi zmdi-instagram"></i></a>
+                    </div> -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-list">
+                        
+                        <li><a href="https://spwdpgc.edu.in/image-gallery"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Image Gallery</a></li>
+                        <li><a href="https://spwdpgc.edu.in/courses_offered"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Courses</a></li>
+                        <li><a href="https://spwdpgc.edu.in/fee-structure"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Fee Structure</a></li>
+                        <li><a href="https://spwdpgc.edu.in/clubs"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Clubs</a></li>
+                        <li><a href="https://spwdpgc.edu.in/nss"><i class="fa fa-angle-double-right" aria-hidden="true"></i> NSS</a></li>
+                        <li><a href="https://spwdpgc.edu.in/student-union"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Student Union</a></li>
+                         
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>Useful Links</h3>
+                    <ul class="footer-list">
+
+                        <!-- <li><a href="https://spwdpgc.edu.in/uploads/pdf_files/VEMU-IT-HR-Policy-Book-Ver-2.0.pdf" target="_blank"><i class="fa fa-angle-double-right" aria-hidden="true"></i> HR Policy Handbook</a></li> -->
+                        <li style="display:none;">
+                            <a class="" data-toggle="collapse" href="#nirflink" role="button" aria-expanded="false" aria-controls="nirflink">
+                                <i class="fa fa-angle-double-right" aria-hidden="true"></i> NIRF <i class="fa fa-angle-double-down" aria-hidden="true"></i></span></a>
+                            <div class="collapse" id="nirflink">
+                                <div class="nirf-box">
+                                    <div class="btn-group footer-msn" role="group">
+                                        <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink2024" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">
+                                            2024
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink2024">
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2024/NIRF-24-ENGG.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2024/NIRF-24-MANAGEMENT.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2024/NIRF-24-OVERALL.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="btn-group footer-msn" role="group">
+                                        <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink2023" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">
+                                            2023
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink2023">
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2023/NIRF-ENGG-2023.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2023/NIRF-MGMT-2023.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2023/NIRF-OVERALL-2023.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="btn-group footer-msn" role="group">
+                                        <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink2022" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">
+                                            2022
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink2022">
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2022/NIRF-ENGG-2022.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2022/NIRF-MGMT-2022.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2022/NIRF-OVERALL-2022.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="btn-group footer-msn" role="group">
+                                        <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink2021" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">
+                                            2021
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink2021">
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_ENGINEERING_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_MGMT_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>
+                                            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_OVERALL_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <!--<div class="btn-group footer-msn" role="group">-->
+
+                                    <!--    <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink2020" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">-->
+                                    <!--     2020-->
+                                    <!--        <span class="caret"></span>-->
+                                    <!--    </button>-->
+                                    <!--    <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink2020">-->
+                                    <!--        <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2020/NIRF-ENGG.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>-->
+                                    <!--        <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2020/NIRF-MGMT.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>-->
+                                    <!--        <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2020/NIRF-OVERALL.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>-->
+                                    <!--    </ul>-->
+
+
+                                    <!--</div>-->
+                                </div>
+                            </div>
+                        </li>
+
+                        <!--<div class="btn-group footer-msn" role="group">-->
+                        <!--        <button type="button" class="btn btn-outline-dark1 dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 1px;">-->
+                        <!--        <i class="fa fa-angle-double-right" aria-hidden="true"></i> NIRF-->
+                        <!--            <span class="caret"></span>-->
+                        <!--        </button>-->
+                        <!--        <ul class="dropdown-menu footer-drop" aria-labelledby="dropdownMenuLink">-->
+                        <!--            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_ENGINEERING_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> ENGINEERING</a></li>-->
+                        <!--            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_MGMT_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> MANAGEMENT</a></li>-->
+                        <!--            <li><a class="dropdown-item" href="https://spwdpgc.edu.in/assets/nirf/2021/NIRF_OVERALL_2021.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> OVERALL</a></li>-->
+                        <!--        </ul>-->
+                        <!--    </div>-->
+                        <li><a href="https://spwdpgc.edu.in/examination-pattern"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Examination Pattern</a></li>
+                        <li><a href="https://spwdpgc.edu.in/exam-notifications"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Exam Notifications</a></li>
+                        <li><a href="https://spwdpgc.edu.in/fee-structure"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Fee Structure</a></li>
+                        <li><a href="https://spwdpgc.edu.in/diet-counselling-cell"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Diet Counselling Cell</a></li>
+                        <li><a href="https://spwdpgc.edu.in/iqac"><i class="fa fa-angle-double-right" aria-hidden="true"></i> IQAC</a></li> 
+                        <li><a href="https://spwdpgc.edu.in/assets/img/department/iqac/AQAR-23-24.pdf"><i class="fa fa-angle-double-right" aria-hidden="true"></i> AQAR'S</a></li> 
+                        <!--<li><a href="https://spwdpgc.edu.in/icrtia"><i class="fa fa-angle-double-right" aria-hidden="true"></i> International Conference (ICRTIA)</a></li>-->
+                        
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 ">
+
+                <div class="single-footer-widget">
+                    <h3>CONTACT DETAILS</h3>
+                    <a href="tel:08772264601" title="Phone No."><i class="fa fa-phone" style="font-size: 23px; vertical-align: middle;"></i>0877 - 2264601 </a>
+                    <!-- <a href="tel:08772248137"><i class="fa fa-phone"></i>0877 - 224 8137 </a> -->
+                    <div itemscope itemtype="http://schema.org/Organization" title="Fax No.">
+                        <p style="margin: 0;"><i class="fa fa-fax" aria-hidden="true" style="font-size: 18px;width: 30px;margin-bottom: 11px;"></i><span itemprop="faxNumber">0877 - 2248137</span></p>
+                    </div>
+                    <a href="mailto:ttdspwdc@gmail.com" title="Email"><span><i class="fa fa-envelope"></i>ttdspwdc@gmail.com</span></a>
+                    <span><i class="fa fa-map-marker" style="width: 26px;font-size: 25px;vertical-align: middle;"></i> 186, Street No. 250, LS Nagar,<br><span style=" margin-left: 30px;"> Opp to SV University, Tirupati,<br></span><span style="    margin-left: 30px;">Andhra Pradesh - 517502.</span> </span>
+                      
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/" target="_blank"><i class="zmdi zmdi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/" target="_blank"><i class="zmdi zmdi-linkedin"></i></a>
+                        <a href="#"><i class="zmdi zmdi-google-plus"></i></a>
+                        <!--<a href="#"><i class="zmdi zmdi-pinterest"></i></a>-->
+                        <a href="#"><i class="zmdi zmdi-instagram"></i></a>
+                    </div>
+                    <!-- <ul class="footer-list">
+                        <li><a href="about_us"><i class="fa fa-angle-double-right" aria-hidden="true"></i> About Us</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 1</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 2</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 3</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 4</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 5</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Enquiry Link 6</a></li>
+                    </ul> -->
+
+
+                </div>
+                <center class="msn-counter mt-4" style="border: 2px solid #3498db;padding: 5px 10px;border-radius: 0px 30px 0px 30px;max-width: 200px;margin: auto;transition: 0.5s all;">
+                    <h4 style="color: #FF9800;font-size: 18px;margin-bottom: 6px;text-transform: uppercase;letter-spacing: 1px;">Our&nbsp;Visitors</h4>
+
+                    <!-- Start of CuterCounter Code 
+<a href="" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=gucconp&nd=8&style=59" border="0" alt="hit counter"></a>
+ End of CuterCounter Code -->
+                    <h3 class="number-digits" style="font-size: 20px;background-image: linear-gradient(to bottom, #23c7ff, #23c7ff, #23c7ff, #23c7ff, #19a0d0, #e6ecfb, #3d5fb6, #59cac6, #90def9, #5a7ef0, #ff4040, #6f7bd4);
+    -webkit-background-clip: text;-webkit-text-fill-color: transparent;font-family: 'montserratsemi_bold';letter-spacing: 2px;">
+                        00975340 </h3>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function req_form() {
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        if ($('#req_full_name').val() == '') {
+            $('#req_full_name').focus();
+        } else if ($('#req_phone_no').val() == '' || isNaN($('#req_phone_no').val()) == true) {
+            $('#req_phone_no').focus();
+        } else if ($('#req_email_id').val() == '' || reg.test($('#req_email_id').val()) == false) {
+            $('#req_email_id').focus();
+        } else if ($('#enq_message').val() == '') {
+            $('#enq_message').focus();
+        } else {
+            $('#enquiry_form').attr('action', 'https://spwdpgc.edu.in/welcome/enquiry_form');
+            $('#enquiry_form').submit();
+        }
+    }
+</script>
+<!--End of Footer Widget Area-->
+<!--Footer Area Start-->
+<footer class="footer-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-7 col-12">
+                <span>&copy; <script>
+                        var CurrentYear = new Date().getFullYear();
+                        document.write(CurrentYear)
+                    </script> 
+                    
+                    SPWDPGC. All rights reserved. </span>
+            </div>
+            <div class="col-lg-6 col-md-5 col-12">
+                <div class="column-right">
+                    <span>Powered by <a href="http://ymtsindia.com/" target="_blank">YMTSINDIA</a></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--End of Footer Area-->
+
+
+</div>
+<!--End of Bg White-->
+</div>
+<!-- jquery
+		============================================ -->
+<!--    <script src="js/vendor/jquery-1.12.4.min.js"></script>-->
+    <script src="https://spwdpgc.edu.in/assets/js/jquery-2.2.4.min.js"></script>
+
+    <!-- popper JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/popper.min.js"></script>
+
+    <!-- bootstrap JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/bootstrap.min.js"></script>
+
+    <!-- AJax Mail JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/ajax-mail.js"></script>
+
+    <!-- plugins JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/plugins.js"></script>
+
+    <!-- StyleSwitch JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/styleswitch.js"></script>
+    <script src="https://spwdpgc.edu.in/assets/js/owl.carousel.min.js"></script>
+    <!-- main JS
+		============================================ -->
+    <script src="https://spwdpgc.edu.in/assets/js/main.js"></script>
+    <script type="text/javascript">
+					$('.owl-events').owlCarousel({
+				        items:1,
+				        margin: 30,
+				        loop:true,
+				        dots: true,
+				        autoplayHoverPause: true,
+				        smartSpeed:1050,         
+				        autoplay:true,      
+				            responsive: {
+				            0: {
+				                items: 1
+				            },
+				            480: {
+				                items: 1,
+				            },
+				            768: {
+				                items: 1,
+				            }
+				        }
+				    });
+				</script>
+    <script type="text/javascript">
+					$('.owl-news').owlCarousel({
+				        items:1,
+				        margin: 30,
+				        loop:true,
+				        dots: true,
+				        autoplayHoverPause: true,
+				        smartSpeed:650,         
+				        autoplay:true,      
+				            responsive: {
+				            0: {
+				                items: 1
+				            },
+				            480: {
+				                items: 1,
+				            },
+				            768: {
+				                items: 1,
+				            }
+				        }
+				    });
+				</script>
+    <script type="text/javascript">
+					$('.owl-courses').owlCarousel({
+				        items:1,
+				        margin: 30,
+				        loop:true,
+				        dots: true,
+				        autoplayHoverPause: true,
+				        smartSpeed:950,         
+				        autoplay:true,      
+				            responsive: {
+				            0: {
+				                items: 1
+				            },
+				            480: {
+				                items: 1,
+				            },
+				            768: {
+				                items: 1,
+				            }
+				        }
+				    });
+				</script>
+<script type="text/javascript">
+					$('.owl-courses1').owlCarousel({
+				        items:2,
+				        margin: 30,
+				        loop:true,
+				        dots: true,
+				        autoplayHoverPause: true,
+				        smartSpeed:950,         
+				        autoplay:true,      
+				            responsive: {
+				            0: {
+				                items: 1
+				            },
+				            480: {
+				                items: 1,
+				            },
+				            768: {
+				                items: 1,
+				            }
+				        }
+				    });
+				</script>
+<script type="text/javascript">
+					$('.centers').owlCarousel({
+				        items:1,
+				        margin: 30,
+				        loop:true,
+				        dots: false,
+				        autoplayHoverPause: true,
+				        smartSpeed:1050, 
+                        navigation:true,
+                        nav:true,
+                        navText:"",
+                        navigationText:["",""],
+				        autoplay:true,      
+				            responsive: {
+				            0: {
+				                items: 1
+				            },
+				            480: {
+				                items: 1,
+				            },
+				            667:{
+				                items:2,
+				            },
+				            768: {
+				                items: 2,
+				            },
+                            1024:{
+                                items:4,
+                            }
+				        }
+				    });
+				</script><script>
+    $(document).ready(function () {
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        items: 8,
+        loop: true,
+        margin: 20,
+        autoplay: true,
+        slideTransition: 'linear',
+        autoplayTimeout: 0,
+        autoplaySpeed: 3000,
+        autoplayHoverPause: false
+
+    });
+
+});
+</script>
+<script>
+    jQuery.fn.liScroll = function(settings) {
+        settings = jQuery.extend({
+            travelocity: 0.03
+        }, settings);
+        return this.each(function() {
+            var $strip = jQuery(this);
+            $strip.addClass("newsticker")
+            var stripHeight = 1;
+            $strip.find("li").each(function(i) {
+                stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+            });
+            var $mask = $strip.wrap("<div class='mask'></div>");
+            var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");
+            var containerHeight = $strip.parent().parent().height(); //a.k.a. 'mask' width 	
+            $strip.height(stripHeight);
+            var totalTravel = stripHeight;
+            var defTiming = totalTravel / settings.travelocity; // thanks to Scott Waye		
+            function scrollnews(spazio, tempo) {
+                $strip.animate({
+                    top: '-=' + spazio
+                }, tempo, "linear", function() {
+                    $strip.css("top", containerHeight);
+                    scrollnews(totalTravel, defTiming);
+                });
+            }
+            scrollnews(totalTravel, defTiming);
+            $strip.hover(function() {
+                    jQuery(this).stop();
+                },
+                function() {
+                    var offset = jQuery(this).offset();
+                    var residualSpace = offset.top + stripHeight;
+                    var residualTime = residualSpace / settings.travelocity;
+                    scrollnews(residualSpace, residualTime);
+                });
+        });
+    };
+
+    $(function() {
+        $("ul#ticker01").liScroll();
+    });
+    $(function() {
+        $("ul#ticker02").liScroll();
+    });
+</script>
+<script>
+    // view more script
+document.getElementById('expand-btn').addEventListener('click', function () {
+    let contentWrapper = document.getElementById('content-more');
+    let content = document.getElementById('content');
+
+    let currentHeight = contentWrapper.clientHeight;
+    let fullHeight = content.scrollHeight;
+
+    if (currentHeight < fullHeight) {
+        let newHeight = currentHeight + 500;
+        if (newHeight > fullHeight) {
+            newHeight = fullHeight;
+        }
+        contentWrapper.style.maxHeight = newHeight + 'px';
+    }
+
+    if (currentHeight + 500 >= fullHeight) {
+        this.style.display = 'none'; // Hide the button if the full content is shown
+    }
+});
+
+
+</script>
+<style>
+    .nirf-box {
+        padding-left: 20px;
+    }
+
+    .btn-outline-dark1 {
+        width: 100%;
+        text-align: center;
+        background: transparent;
+        color: #fff;
+        padding: 2px 0px;
+        border: 1px solid;
+        display: block;
+        max-width: 110px;
+        margin-bottom: 10px !important;
+    }
+
+    a.elem img {
+        object-fit: cover;
+    }
+
+    strong {
+        font-family: 'Raleway', sans-serif;
+    }
+
+    .msn-heading-blue>strong,
+    .msn-heading-blue {
+        font-size: 16px;
+        color: #075bba;
+        font-family: 'Raleway', sans-serif;
+    }
+
+    /* Scroll Bar Css */
+    ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+        /* border-radius: 5px; */
+        background-color: #F5F5F5;
+    }
+
+    ::-webkit-scrollbar {
+        width: 8px;
+        background-color: #F5F5F5;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        /* border-radius: 5px; */
+        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+        background-color: #3179d1;
+    }
+    /*new menu responsive*/
+    @media screen and (max-width: 1340px){
+        .header-logo-menu.stick .mainmenu ul#nav > li {
+            margin-right: 15px;
+        }
+
+    }
+    @media screen and (max-width: 1220px){
+        .header-logo-menu.stick .mainmenu ul#nav > li {
+            margin-right: 10px;
+        }
+        .lg-space .mainmenu ul#nav > li {
+            margin-right: 20px;
+        }
+
+    }
+    @media screen and (max-width: 1180px){
+        .header-logo-menu.stick .mainmenu ul#nav > li {
+            margin-right: 5px;
+        }
+        .lg-space .mainmenu ul#nav > li {
+            margin-right: 20px;
+        }
+
+    }
+</style>
+<!-- Gallery Plugins -->
+<script src="https://spwdpgc.edu.in/assets/js/lightbox/lc_lightbox.lite.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/js/lightbox/lc_lightbox.css" />
+
+<link rel="stylesheet" href="https://spwdpgc.edu.in/assets/js/lightbox/dark.css" />
+
+<script src="https://spwdpgc.edu.in/assets/js/lightbox/alloy_finger.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<script>
+    $(document).ready(function() {
+            });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(e) {
+
+        // live handler
+        lc_lightbox('.elem', {
+            wrap_class: 'lcl_fade_oc',
+            gallery: true,
+            thumb_attr: 'data-lcl-thumb',
+
+            skin: 'dark',
+            radius: 0,
+            padding: 0,
+            border_w: 0,
+            socials: false,
+            img_zoom: true,
+            txt_toggle_cmd: false,
+
+        });
+
+    });
+</script>
+
+<!-- faculty modal box start -->
+<div class="modal fade" id="pdfModal" tabindex="-1" role="dialog" aria-labelledby="pdfModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="pdfModalLabel">Faculty Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <iframe id="pdfIframe" src="" width="100%" height="600px" style="border: none;"></iframe>
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div> -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+    $(document).ready(function() {
+        $('#pdfModal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget); // Button that triggered the modal
+            var pdfUrl = button.data('pdf'); // Extract info from data-* attributes
+
+            var modal = $(this);
+            modal.find('#pdfIframe').attr('src', pdfUrl);
+        });
+
+        $('#pdfModal').on('hide.bs.modal', function (event) {
+            var modal = $(this);
+            modal.find('#pdfIframe').attr('src', ''); // Clear the src when hiding the modal
+        });
+    });
+    </script>
+<!-- faculty modal box ends -->
+<!--new scroll sidebar start-->
+<style>
+    /*new scroll css*/
+    #news-updates {
+  height: 200px; /* Fixed height */
+  overflow: hidden; /* Hide content that overflows */
+  position: relative;
+}
+
+.news-item {
+  margin: 10px 0;
+  /* Add some styling for the anchor tags if needed */
+}
+</style>
+<script>
+$(document).ready(function() {
+  var $news = $('#news-updates');
+  var $newsItems = $news.children();  // Get all news items
+  var itemHeight = $newsItems.first().outerHeight(true); // Get the height of a single news item including margin
+  var totalHeight = $newsItems.length * itemHeight; // Total height of all items combined
+
+  // Clone the news items to create an infinite scroll effect
+  $news.append($newsItems.clone());
+
+  function scrollNews() {
+    // Perform the animation from the current scroll position to the total height
+    $news.animate(
+      { scrollTop: totalHeight }, // Scroll to the bottom of the content
+      10000, // Duration for the scroll (adjust speed here)
+      'linear', // Continuous linear scrolling
+      function() {
+        // After scrolling to the end, reset scroll position and start over
+        $news.scrollTop(0);
+        scrollNews(); // Restart the scroll
+      }
+    );
+  }
+
+  scrollNews(); // Initiate the scrolling
+});
+
+
+</script>
+<!--new scroll sidebar ends-->
+            <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+            <!-- Button trigger modal -->
+            <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#naacPopup">
+            Launch demo modal
+            </button> -->
+
+            <!-- Modal -->
+
+
+
+            <!-- Naac Modal -->
+            <div class="modal fade" id="naacPopup" tabindex="-1" role="dialog" aria-labelledby="naacPopupTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <!-- <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div> -->
+                        <div class="modal-body popup">
+                            <button type="button" class="close popup" data-dismiss="modal" aria-label="Close" onclick=stopanimation();>
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            <img src="https://spwdpgc.edu.in/assets/img/naac-popup-banner.jpg" alt="popup banner" class="naac-popup-banner">
+                        </div>
+                        <!-- <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            
+            
+            <!-- principal Modal -->
+            <div class="modal fade" id="principalPopup" tabindex="-1" role="dialog" aria-labelledby="principalPopupTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                         <div class="modal-header">
+                            <h5 class="modal-title" id="principalPopupTitle"><i class="fa fa-quote-left" aria-hidden="true"></i> Principal Message</h5>
+                            <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+                            <!--<span aria-hidden="true">&times;</span>-->
+                            <!--</button>-->
+                            <button type="button" class="close popup" data-dismiss="modal" aria-label="Close" style="padding: 0;top: 0;right: 0;">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div> 
+                        <div class="modal-body popup">
+                            <!--<img src="https://spwdpgc.edu.in/assets/img/naac-popup-banner.jpg" alt="popup banner" class="naac-popup-banner">-->
+                            
+                            <p class="msg-principal">Om Namo Venkatesaya! A warm welcome to one and all. As Principal of the renowned College, I am honoured to present to you a brief profile of 
+                            Sri Padmavathi Women’s Degree and P.G.College, (A) Tirupati with its Septuagenarian existence. The College was meant to provide education and 
+                            empowerment to all the women of Rayalaseema region. The student saplings of yester years have grown tall and big with a strong sense of confidence 
+                            and scattered all over the globe,spreading the name of the College far and wide, bringing in more numberof educators to choose the Institution 
+                            as safe haven to their girl children to stay and study. Thanks to the TTD management for its great work of giving it a good building for the 
+                            colleges and hostels, their by standing for bringing up generations of young women and carving them with holistic personalities to serve the 
+                            cause of society as well as the nation. Academics, Co-Curriculars and extra-Curricular activities flourish with a strong backdrop of committed 
+                            faculty in all aspects. Given the incredible infrastructure and ISO certified status in various aspects,the college is for sure, a venue for 
+                            proving its worth and standing to fulfill the requirements of NAAC and be placed at A+ in the recent Accreditation exercise. The years old 
+                            dream of achieving Autonomous Status also was realised with the extraordinary support and commitment extended by the TTDs. Years of  services 
+                            rendered by the dedicated Principals and their teaching and non - teaching staff have given the college an unchallenging reputation. We stand as one. 
+                            Of course the spirit of team work is key behind our excellence and success. We strive for it. We stand for it. We Welcome you to join this team and 
+                            be part of it. Thank You. “Vina Venkatesam na naatho na naatha, sada Venkatesam smarami smarami”.</p>
+                        </div>
+                        <!-- <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+
+            <style>
+            .about-area p {
+    font-family: 'Lexend', sans-serif;
+            }
+                button.close.popup {
+                    position: absolute;
+                    opacity: 1;
+                    right: -10px;
+                    background: #F44336;
+                    color: #fff;
+                    width: 25px;
+                    height: 25px;
+                    font-size: 25px;
+                    line-height: 15px;
+                    border-radius: 50%;
+                    top: -10px;
+                    font-weight: 500;
+                    transition: 0.5s all;
+                }
+
+                button.close.popup:hover {
+                    background: #fff;
+                    color: #F44336;
+                    transition: 0.5s all;
+                }
+
+                .modal-body.popup {
+                    padding: 0;
+                }
+
+                div#naacPopup {
+                    z-index: 99;
+                }
+
+                .modal-backdrop.show {
+                    opacity: 0;
+                    z-index: 98;
+                }
+
+                @media screen and (max-width: 575px) {
+
+                    a.elem img {
+                        height: 215px !important;
+                        object-position: top;
+                    }
+                }
+            </style>
+            <script>
+                function snow() {
+                    var duration = 25 * 1000;
+                    var animationEnd = Date.now() + duration;
+                    var skew = 1;
+
+                    function randomInRange(min, max) {
+                        return Math.random() * (max - min) + min;
+                    }
+
+                    (function frame() {
+                        var timeLeft = animationEnd - Date.now();
+                        var ticks = Math.max(200, 500 * (timeLeft / duration));
+                        skew = Math.max(0.8, skew - 0.001);
+
+                        confetti({
+                            particleCount: 2,
+                            startVelocity: 0,
+                            ticks: ticks,
+                            origin: {
+                                x: Math.random(),
+                                // since particles fall down, skew start toward the top
+                                y: (Math.random() * skew) - 0.2
+                            },
+                            colors: ['#FF5722'],
+                            shapes: ['circle'],
+                            gravity: randomInRange(0.4, 0.6),
+                            scalar: randomInRange(0.4, 1),
+                            drift: randomInRange(-0.4, 0.4)
+                        });
+
+                        //   if (timeLeft > 0) {
+                        //     requestAnimationFrame(frame);
+                        //   }
+                        if (Date.now() < Date.now() + 15000) {
+                            id = requestAnimationFrame(frame);
+                        }
+                    }());
+                }
+
+                $(window).on('load', function() {
+                    // $('#naacPopup').modal('show');
+                    // $('#naacPopup').modal({
+                    //     backdrop: 'static',
+                    //     keyboard: false
+                    // }, 'show');
+                    // snow();
+                });
+                
+                $(document).ready(function() {
+            // Check if the script has already been executed in this session
+            if (!sessionStorage.getItem('scriptExecuted')) {
+                // Your jQuery script goes here
+                $('#naacPopup').modal({
+                        backdrop: 'static',
+                        keyboard: false
+                    }, 'show');
+                    snow();
+                // console.log("Script is executing for the first time in this session.");
+                
+                // Mark script as executed in sessionStorage
+                sessionStorage.setItem('scriptExecuted', 'true');
+            } else {
+                console.log("Script already executed in this session.");
+            }
+        });
+
+                function stopanimation() {
+                    window.cancelAnimationFrame(id);
+                }
+            </script>
+            <style>
+                div#principalPopup {}
+
+div#principalPopup .modal-dialog {
+    width:96%;
+    max-width: 900px;
+}
+
+div#principalPopup .modal-header {
+    background: #ffcf64;
+}
+
+h5#principalPopupTitle {
+    /* color: #103c6d; */
+}
+p.msg-principal {
+    padding: 20px;
+        border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+        position: relative;
+    z-index: 6;
+    text-align:justify;
+}
+p.msg-principal i.fa.fa-quote-left {
+    position: absolute;
+    /* z-index: 0; */
+    font-size: 50dvh;
+    color: #c7c3c3;
+    /* opacity: 0.8; */
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+    transform: translate(-50%,-50%);
+}
+            </style>
+
+
+</body>
+
+</html>
