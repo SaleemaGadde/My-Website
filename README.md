@@ -11,7 +11,6 @@ The College Model Website is a responsive web application developed using HTML, 
 - Contact Page
 - Responsive User Interface
 
-
 ## Technologies Used
 
 - HTML5
